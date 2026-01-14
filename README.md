@@ -1,5 +1,7 @@
 # - Visualizador de Perfil do GitHub -
 
+![alt text](image.png)
+
 Este é um projeto de um visualizador de perfis do GitHub desenvolvido para fins de estudo, utilizando HTML, CSS e JavaScript.
 
 ## 🚀 Funcionalidades
